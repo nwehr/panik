@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nwehr/panik.svg?branch=master)](https://travis-ci.org/nwehr/panik)
+
 Introduction
 ------------
 
